@@ -16,7 +16,7 @@
 
 - 💬 Ask me about: **how I go into software engineering. #Broadway**
 
-- 📫 How to reach me: [Email Me](JordanBeall@me.com)
+- 📫 How to reach me: **Email me at JordanBeallWebDev@gmail.com.**
 
 - 📄 Check out my resume: [My Resume](https://coral-shaina-8.tiiny.site)
 
