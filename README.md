@@ -18,7 +18,7 @@
 
 - 📫 How to reach me: **Email me at JordanBeallWebDev@gmail.com.**
 
-- 📄 Check out my resume: [https://coral-shaina-8.tiiny.site](https://coral-shaina-8.tiiny.site)
+- 📄 Check out my resume: [My Resume](https://coral-shaina-8.tiiny.site)
 
 - ⚡ Fun fact: **Just recently closed "The Music Man" on Broadway with Hugh Jackman and Sutton Foster at The Winter Garden Theater in NYC where we played more than 450 performances to over half a million people!**
 
