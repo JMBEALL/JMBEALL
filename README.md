@@ -1,6 +1,9 @@
+
+
 <h1 align="center">Hi 👋, I'm Jordan!</h1>
 <h3 align="center">A Broadway dancer turned Full-stack Developer.</h3>
-<div style="background: linear-gradient(to top right, lightblue, darkblue); padding: 20px;">
+
+
 - 🔭 I’m currently working on BroadwayBinder. **An audition management and community app: Cutting-edge app designed to revolutionize audition tracking for performers providing a centralized platform to track important information. Users with accounts can provide information about the overall progress of auditions by leveraging the power of collective knowledge.**
 
 - 🌱 I’m currently learning: **React, TailwindCSS, SQL Databases and Python.**
@@ -31,4 +34,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/jordanbeall"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jordanbeall" /></a></p><br><br>
 
-</div>
+
