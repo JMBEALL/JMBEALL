@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with: **user authentication.**
 
-- 👨‍💻 Check out my website: [https://jordanbeall.com](https://jordanbeall.com)
+- 👨‍💻 Check out my website: [JordanBeall.com](https://jordanbeall.com)
 
 - 💬 Ask me about: **how I go into software engineering. #Broadway**
 
