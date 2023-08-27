@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Jordan!</h1>
 <h3 align="center">A Broadway dancer turned Full-stack Developer.</h3>
 
-(https://www.codewars.com/users/JMBEALL/badges/small)
 - 🔭 I’m currently working on BroadwayBinder. **An audition management and community app: Cutting-edge app designed to revolutionize audition tracking for performers providing a centralized platform to track important information. Users with accounts can provide information about the overall progress of auditions by leveraging the power of collective knowledge.**
 
 - 🌱 I’m currently learning: **React, TailwindCSS, SQL Databases and Python.**
